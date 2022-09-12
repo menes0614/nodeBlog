@@ -1,2 +1,2 @@
 # nodeBlog
- Nodejs, ExpressJs ve MongoDB kullanılmıştır
+ Kendimi geliştirme adına yapılan örnek çalışmalardır(Nodejs, ExpressJs ve MongoDB kullanılmıştır).
